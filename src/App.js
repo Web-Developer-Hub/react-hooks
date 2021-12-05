@@ -79,7 +79,7 @@ function LoadeUsers() {
       <div className="users">
         {users.map((user) => <DisplayUser data={user} key={user.id}></DisplayUser>)}
       </div>
-      <div style={{ textAlign: 'center', marginTop: '30px', marginBottom: '30px' }}>Copyright © 2021 Habibor-Rahaman.com</div>
+      <div style={{ textAlign: 'center', marginTop: '30px', marginBottom: '30px' }}>All rights reversed.Copyright © 2021 Habibor-Rahaman.com</div>
     </section>
   )
 }
